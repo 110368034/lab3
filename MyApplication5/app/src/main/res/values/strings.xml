@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="input">輸入玩家姓名</string>
+    <string name="name">請輸入姓名以遊戲開始</string>
+    <string name="scissor">剪刀</string>
+    <string name="stone">石頭</string>
+    <string name="paper">布</string>
+    <string name="play">猜拳</string>
+    <string name="name1">名字</string>
+    <string name="winner">獲勝者</string>
+    <string name="mmora">我方出手</string>
+    <string name="cmora">電腦出手</string>
+
+
+
+</resources>
